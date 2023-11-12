@@ -1,0 +1,3 @@
+This is a sample text file for testing grep.
+It contains multiple lines with various patterns.
+Feel free to add more lines for testing.

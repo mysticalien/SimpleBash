@@ -1,0 +1,3 @@
+Test file with numbers: 12345, 67890, 999.
+It's designed to test grep with numeric patterns.
+Add more lines with numeric patterns if needed.
